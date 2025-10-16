@@ -1,3 +1,4 @@
+package elementia;
 import characters.Person;
 
 import java.util.*;
